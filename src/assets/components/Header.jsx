@@ -57,7 +57,7 @@ const Header = () => {
                         </a>
 
                         <a
-                            href="#Contáctanos"
+                            href="#Contacto"
                             className="px-7 py-3 bg-white text-black text-sm tracking-wide hover:bg-white/80 transition shadow-lg">
                             Contactar
                         </a>
